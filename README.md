@@ -17,8 +17,10 @@ We will be focusing on :
 * React knowledge (Hooks)
 * Testing Knowledge (Testing a must, TDD not required.)
 ## Technology used
-* Javascript
-* Jest - Unit testing framework
+* javascript
+* jest - Unit testing framework
+* axios
+* axios-mock-adapter
 
 ## Available Scripts
 
